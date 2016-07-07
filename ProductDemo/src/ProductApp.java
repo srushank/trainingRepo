@@ -8,6 +8,8 @@ public class ProductApp {
 		for(int i=0;i<10;i++)
 		{
 			System.out.println("display display!!!");
+			
+			System.out.println("conflict check");
 		}
 	}
 }
